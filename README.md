@@ -27,7 +27,7 @@
 
 > Now Click The [Fork](https://github.com/ravindu01manoj/Sew-Queen/fork)
 
-> Now Copy This Url https://github.com/biguneth123/Sew-Queen and change ravindu01manoj/Sew-Queen with your user name and repo name
+> Now Copy This Url https://github.com/biguneth123/sew and change ravindu01manoj/Sew-Queen with your user name and repo name
 
 > Now Deploy Sew Queen With Your Own Url.
 
